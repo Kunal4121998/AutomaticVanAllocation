@@ -1,0 +1,27 @@
+
+
+Version:	3.12
+CmdLine:	C:\Users\KUNAL\Downloads\gittest-master\Van\van\AutomaticVanAllocation\AutomaticVanAllocation\dist\Automatic.exe --l4j-debug
+WOW64:		no
+Working dir:	C:\Users\KUNAL\Downloads\gittest-master\Van\van\AutomaticVanAllocation\AutomaticVanAllocation\dist\.
+Java min ver:	1.004.000
+Java max ver:	
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\java\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_231
+Check launcher:	C:\Program Files\Java\java\bin\javaw.exe (OK)
+Match:		1.008.000_231
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_231
+Ignore:		1.008.000_231
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_231 (32-bit)
+Launcher:	C:\Program Files\Java\java\bin\javaw.exe
+Launcher args:	-jar "C:\Users\KUNAL\Downloads\gittest-master\Van\van\AutomaticVanAllocation\AutomaticVanAllocation\dist\Automatic.exe"
+Args length:	119/32768 chars
+Exit code:	0
